@@ -236,17 +236,17 @@ INSERT INTO Program VALUES
 
 INSERT INTO Application VALUES
 (67766,'11111',1,'Spring',2018,
-'I’m applying to this university in view of my interest in the Computer Graphics course offered, and also my intention in visiting on of the most beautiful countries in the world.','Accepted'),
+'Iâ€™m applying to this university in view of my interest in the Computer Graphics course offered, and also my intention in visiting on of the most beautiful countries in the world.','Accepted'),
 (67766,'11113',1,'Summer',2018,
-'I’m applying to this university because I am interested in the Advanced computer science courses they have offered.','Pending'),
+'Iâ€™m applying to this university because I am interested in the Advanced computer science courses they have offered.','Pending'),
 (67766,'11111',1,'Summer',2018,
-'I’m applying to this university in view of my interest in the Computer Graphics course offered, and also my intention in visiting on of the most beautiful countries in the world.','Pending');
+'Iâ€™m applying to this university in view of my interest in the Computer Graphics course offered, and also my intention in visiting on of the most beautiful countries in the world.','Pending');
 
 
 INSERT INTO Review VALUES
 (67766,11111,5,'Great Program! Awesome Country!','2018-10-23','10:30:23'),
 (67766,11113,3,'The Computer Science courses are hard. Great Experience though!','2018-10-23','10:45:13'),
-(67723,11113,1,'I don’t recommend this university at all.','2018-10-24','22:00:05');
+(67723,11113,1,'I donâ€™t recommend this university at all.','2018-10-24','22:00:05');
 
 
 
